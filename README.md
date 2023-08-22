@@ -15,7 +15,7 @@
   <img align="center" alt="Python"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-## Editor de código que uso
+## Editor de texto que uso
 <div style="display: inline_block"><br/>
 <img align="center" alt="Python"src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 </div>
@@ -29,3 +29,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](williammatheus591@gmail.com)
 
 ## Futuro...⏳
+
+
